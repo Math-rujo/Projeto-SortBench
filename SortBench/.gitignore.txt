@@ -1,12 +1,12 @@
 # NetBeans
-**/nbproject/private/
+/nbproject/private/
 
 # Java
 *.class
 
 # Compilação
-**/build/
-**/dist/
+/build/
+/dist/
 
 # Logs
 *.log
